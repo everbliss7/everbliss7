@@ -1,6 +1,6 @@
 <h2> Welcome 👋 , I'm Blessing Tayedzerwa.</h2>
 
-I'm a software developer, specializing in building exceptional websites and mobile applications, and everything in between.
+I'm a software developer, specializing in building web app and mobile applications, and everything in between.
 
 
 ## About me
