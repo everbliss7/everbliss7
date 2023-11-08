@@ -46,8 +46,6 @@ I'm a software developer, specializing in building web app and mobile applicatio
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=everbliss7&show_icons=true&locale=en&layout=compact" alt="Blessing Tayedzerwa" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=everbliss7&show_icons=true&locale=en" alt="Blessing Tayedzerwa" /></p>
-
 <hr>
 
 <h3>Contact Me</h3>
